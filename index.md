@@ -11,6 +11,8 @@ Manoa Eateries is a project that provides students the opportunity to see what i
 - Implement vendor roles that can specify what days and times an establishment is open, and allow for menu changes as needed
 - Implement user roles that can specify a person’s dining preferences
 - Implement admin roles that can add vendor roles to users and modify any aspect of the system
+
+
 [Team Contract](https://docs.google.com/document/d/1fNMn6Be5DwtTorRnbEHNBvZuMuU2cnv_35YeOkjgyYU/edit?usp=sharing)
 ## Mockups
 - Landing Page
