@@ -1,1 +1,1 @@
-# manoa-easteries
+# manoa-eateries
