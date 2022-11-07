@@ -14,12 +14,12 @@ Manoa Eateries is a project that provides students the opportunity to see what i
 
 ## Mockups
 - Landing Page
-    ![](images/LandingPageMockup.png)
+<br/><br/>![](images/LandingPageMockup.png)
 
 
 - User Home Page
-    ![](images/UserHomeMockup.png)
+<br/><br/>![](images/UserHomeMockup.png)
 
 
 - Vendor Page
-    ![](images/VendorPageMockup.png)
+<br/><br/>![](images/VendorPageMockup.png)
