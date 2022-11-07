@@ -13,6 +13,13 @@ Manoa Eateries is a project that provides students the opportunity to see what i
 - Implement admin roles that can add vendor roles to users and modify any aspect of the system
 
 ## Mockups
-- ![](images/LandingPageMockup.png)
-- ![](images/UserHomeMockup.png)
-- ![](images/VendorPageMockup.png)
+- Landing Page
+    ![](images/LandingPageMockup.png)
+
+
+- User Home Page
+    ![](images/UserHomeMockup.png)
+
+
+- Vendor Page
+    ![](images/VendorPageMockup.png)
