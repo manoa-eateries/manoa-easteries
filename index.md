@@ -14,10 +14,13 @@ Manoa Eateries is a project created for ICS 314 by Brooke Maeda, Andee Gary, Alb
 
 
 [Team Contract](https://docs.google.com/document/d/1fNMn6Be5DwtTorRnbEHNBvZuMuU2cnv_35YeOkjgyYU/edit?usp=sharing)
-## Mockups
-- Landing Page
-<br/><br/>![](images/LandingPageMockup.png)
 
+## User Guide
+- Landing Page
+  <br/><br/>![](images/LandingPage.jpg)
+  When users first enter the site, they are greeted with the landing page.  This displays the mission of Manoa Eateries and the participating vendors.
+
+## Mockups
 
 - User Home Page
 <br/><br/>![](images/UserHomeMockupUpdate.png)
@@ -31,7 +34,7 @@ Manoa Eateries is a project created for ICS 314 by Brooke Maeda, Andee Gary, Alb
 <br/><br/>![](images/ManoaEateriesSignInPage.png)
 
 
--Sign-Up Page
+- Sign-Up Page
 <br/><br/>![](images/ManoaEateriesSignUpPage.png)
 
 
