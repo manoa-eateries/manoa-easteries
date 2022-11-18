@@ -20,14 +20,16 @@ Manoa Eateries is a project created for ICS 314 by Brooke Maeda, Andee Gary, Alb
 
 
 - User Home Page
-<br/><br/>![](images/UserHomeMockup.png)
+<br/><br/>![](images/UserHomeMockupUpdate.png)
 
 
 - Vendor Page
-<br/><br/>![](images/VendorPageMockup.png)
+<br/><br/>![](images/VendorPageMockupUpdate.png)
+
 
 - Sign-in Page
 <br/><br/>![](images/ManoaEateriesSignInPage.png)
+
 
 -Sign-Up Page
 <br/><br/>![](images/ManoaEateriesSignUpPage.png)
