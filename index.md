@@ -37,6 +37,7 @@ Manoa Eateries is a project created for ICS 314 by Brooke Maeda, Andee Gary, Alb
 
 ## Projects
 [Milestone 1](https://github.com/orgs/manoa-eateries/projects/1/views/1)
+[Milestone 2](https://github.com/orgs/manoa-eateries/projects/2/views/2)
 
 ## Deployment
 [Digital Ocean application](http://143.110.235.49)
