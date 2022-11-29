@@ -14,7 +14,37 @@ Manoa Eateries is a project created for ICS 314 by Brooke Maeda, Andee Gary, Alb
 
 
 [Team Contract](https://docs.google.com/document/d/1fNMn6Be5DwtTorRnbEHNBvZuMuU2cnv_35YeOkjgyYU/edit?usp=sharing)
+## Developer Guide 
+### Installation
+First, [install Meteor](https://www.meteor.com/developers/install)
 
+Second, vision the [Manoa Eateries application github page](https://github.com/manoa-eateries/manoa-eateries) and download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the Manoa Eateries app/ directory and install the libraries with: 
+```
+$ meteor npm install
+```
+Fourth, run the system with:
+```
+$ meteor npm run start
+```
+If all goes well it will appear at [http://localhost:3000/](http://localhost:3000/)
+
+### ESLint
+You are also able to invoke the ESLint command from the command line with:
+```
+meteor npm run lint
+```
+Here is an example showing that no ESLint errors were detected:
+```
+$ meteor npm run lint
+
+> manoa-eateries@ lint /Users/johndoe/github/manoea-eateries/app
+> eslint --quiet --ext .jsx --ext .js ./imports ./tests
+
+$
+```
+ESLint should run without generating any errors
 ## User Guide
 - Landing Page
   <br/><br/>![](images/LandingPage.jpg)
