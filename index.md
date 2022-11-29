@@ -70,7 +70,17 @@ ESLint should run without generating any errors
 
 ## Projects
 [Milestone 1](https://github.com/orgs/manoa-eateries/projects/1/views/1)
+
+The goal of this milestone was to create Mockups to see what our pages will look like.  We also made a landing page that tells users the purpose of our website.
+
 [Milestone 2](https://github.com/orgs/manoa-eateries/projects/2/views/2)
+
+For this milestone we wanted to improve functionality by adding pages and forms to our website.
+
+[Milesone 3](https://github.com/orgs/manoa-eateries/projects/3/views/2)
+
+Finally, we want to implement a significant amount of real information into our database.  We also will be receiving community feedback.
+
 
 ## Deployment
 [Digital Ocean application](http://143.110.235.49)
