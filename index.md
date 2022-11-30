@@ -96,7 +96,7 @@ In order for users to be able to see more than just a list of vendors, they must
 
 - Edit Vendor Page
   <br/><br/>![](images/EditVendor.jpg)
-    If a vendor wants to change their information, they may do so on the edit vendor page.  Here they can set their name, logo, when they are open, location, and preferences they cater to.
+If a vendor wants to change their information, they may do so on the edit vendor page.  Here they can set their name, logo, when they are open, location, and preferences they cater to.
 
 ## Mockups
 
