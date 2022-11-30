@@ -52,7 +52,7 @@ Here is an example showing that no ESLint errors were detected:
 ```
 $ meteor npm run lint
 
-> manoa-eateries@ lint /Users/johndoe/github/manoea-eateries/app
+> manoa-eateries@ lint /Users/johndoe/github/manoa-eateries/app
 > eslint --quiet --ext .jsx --ext .js ./imports ./tests
 
 $
@@ -66,12 +66,12 @@ ESLint should run without generating any errors
 
 - List All Vendors Page
   <br/><br/>![](images/ListAllVendors.jpg)
-    Users can see the participating vendors with this page without signing in.  This allows users to see if their restaurants are included in the website and help them to decide if they should sign up.
+    Users can see the participating vendors on this page without signing in. This allows users to see if their restaurants are included in the website and help them to decide if they should sign up.
 
 
 - Sign in Page
   <br/><br/>![](images/SignInPage.jpg)
-In order for  users to be able to see more than just a list of vendors, they must sign in.  Once signed in, they will still be able to see the list all vendors page in addition to new pages described below.
+In order for users to be able to see more than just a list of vendors, they must sign in.  Once signed in, they will still be able to see the list all vendors page, in addition to new pages described below.
 
   
 - Sign up Page
