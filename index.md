@@ -65,7 +65,7 @@ ESLint should run without generating any errors
 
 
 - List All Vendors Page
-  <br/><br/>![](images/UpdatedviewVendor.png)
+  <br/><br/>![](images/UpdatedviewVendor.jpg)
   <br/><br/>Users can see the participating vendors on this page without signing in. This allows users to see if their restaurants are included in the website and help them to decide if they should sign up.
 
 
