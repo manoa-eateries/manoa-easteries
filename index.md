@@ -69,6 +69,11 @@ ESLint should run without generating any errors
     Users can see the participating vendors on this page without signing in. This allows users to see if their restaurants are included in the website and help them to decide if they should sign up.
 
 
+- Open Now Page
+  <br/><br/>![](images/UserHome.jpg)
+  Once a user is signed in, they can see a few vendors that are currently open.  Every time a user opens this page, they can see a new random list of vendors to keep their food choices exciting.
+
+
 - Sign in Page
   <br/><br/>![](images/SignInPage.jpg)
 In order for users to be able to see more than just a list of vendors, they must sign in.  Once signed in, they will still be able to see the list all vendors page, in addition to new pages described below.
